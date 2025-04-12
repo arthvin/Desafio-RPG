@@ -62,8 +62,8 @@ Um sistema completo para gerenciamento de personagens e itens mágicos em jogos 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/rpg-management-system.git
-   cd rpg-management-system
+   git clone https://github.com/seu-usuario/desafio-rpg.git
+   cd desafio-rpg
    ```
 
 2. Instale as dependências:
